@@ -22,7 +22,7 @@ body {
 
 .main {
     height: 100%;
-    
+
 }
 
 .name {
@@ -33,12 +33,12 @@ body {
 
 .main-info {
     height: 100%;
-    
+
     display: flex;
 }
 
 .photo {
-    
+
     width: 250px;
     height: auto;
     margin-right: 50px;
@@ -64,22 +64,15 @@ body {
     height: 100%;
 }
 
-.education-wrapper {
-    max-width: 780px;
-    width: 100%;
-    text-align: left;
-    margin: 20px auto 0;
-    border: 3px solid rgb(217, 217, 217);
-    padding: 20px ;
-}
 a {
     text-decoration: none;
     text-transform: uppercase;
     color: black;
     font-size: large;
 }
+
 hr {
-    border: none; 
-    background-color: rgb(32, 150, 163); 
-    height: 2px; 
+    border: none;
+    background-color: rgb(32, 150, 163);
+    height: 2px;
 }
